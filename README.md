@@ -46,7 +46,11 @@
   <strong>I CONQUERED.</strong><br><br>
   <sub><i>“Veni, vidi, vici.”</i></sub>
 </p>
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📈-GitHub%20Stats-1F4E8C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stats badge" />
+</p>
 
 <p align="center">
   <picture>
@@ -81,7 +85,11 @@
   <img src="https://img.shields.io/badge/Language-Tamil%20%7C%20English-1F4E8C?style=for-the-badge&logo=globe&logoColor=white" alt="Languages: Tamil and English"/>
 </p>
 
-<h2 align="center">Featured Repositories</h2>
+<h2 align="center">📌 Featured Repositories</h2>
+
+<p align="center">
+  <strong>📁 BitChord</strong>
+</p>
 
 <p align="center">
   <picture>
@@ -95,6 +103,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
     <img height="150" alt="Profile README" src="https://github-readme-stats.vercel.app/api/pin/?username=suryavellingiri18-tech&repo=suryavellingiri18-tech&title_color=0A2A5E&text_color=1F4E8C&icon_color=4A7FB5&bg_color=F5F9FC"/>
   </picture>
+</p>
+
+<p align="center">
+  <strong>📘 Profile README</strong>
 </p>
 
 <p align="center">
