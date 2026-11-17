@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/black_ribbonbanner.gif">
-    <img src="assets/banner-preview.jpg" width="100%" alt="Surya - Computer Science Student, Aspiring Multimedia & VFX Artist (click to play banner animation)"/>
-  </a>
+# <p align="center">
+  <img src="black_ribbonbanner.gif" width="100%" alt="Surya - Computer Science Student, Aspiring Multimedia & VFX Artist"/>
 </p>
 
 <p align="center">
+  <p align="center">
   <a href="https://www.artstation.com/saden_18"><img src="https://img.shields.io/badge/ARTSTATION-1F4E8C?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/></a>
   <a href="https://www.behance.net/YOUR_BEHANCE_USERNAME"><img src="https://img.shields.io/badge/BEHANCE-1F4E8C?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
   <a href="https://www.linkedin.com/in/surya-giri-55a5b43ba"><img src="https://img.shields.io/badge/LINKEDIN-1F4E8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -25,16 +24,16 @@
 <!--<h2 align="center">Showreel</h2>
 
 <p align="center">
-  <a href="YOUR_SHOWREEL_LINK"><img src="YOUR_PREVIEW_IMAGE" width="80%" alt="Showreel Preview"/></a>
+  <a href="YOUR_SHOWREEL_LINK"><img src="" width="80%" alt="Showreel Preview"/></a>
 </p>-->
 
 <h2 align="center">About Me</h2>
 
 <table align="center">
   <tr>
-    <td width="30%" align="center"><img src="pixel_art.png" width="180" alt="Pixel art portrait of Surya"/></td>
+    <td width="30%" align="center"><img src="pixel_art.png" width="180" alt="Surya"/></td>
     <td align="center">
-      Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design to bridge creative art with code.
+ Hi, I’m <strong>Surya</strong> — a Computer Science student passionate about both programming and visual storytelling. I work with Python and C, and I’m currently exploring HTML and UI/UX design to bridge creative art with code.
     </td>
   </tr>
 </table>
@@ -47,7 +46,6 @@
   <strong>I CONQUERED.</strong><br><br>
   <sub><i>“Veni, vidi, vici.”</i></sub>
 </p>
-
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
