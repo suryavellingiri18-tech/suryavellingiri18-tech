@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/YOUR-VIDEO-ID">
+  <a href="https://github.com/user-attachments/assets/black_ribbon_banner.mp4">
     <img src="assets/banner-preview.jpg" width="100%" alt="Surya - Computer Science Student, Aspiring Multimedia & VFX Artist (click to play banner animation)"/>
   </a>
 </p>
